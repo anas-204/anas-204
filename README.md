@@ -55,8 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/anas-204/anas-204/output/snake.svg" alt="Snake animation" />
-
-###
-
